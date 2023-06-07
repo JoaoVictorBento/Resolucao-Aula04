@@ -1,0 +1,8 @@
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Resolução da aula 04\bin\Debug\Resolução da aula 04.exe.config
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Resolução da aula 04\bin\Debug\Resolução da aula 04.exe
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Resolução da aula 04\bin\Debug\Resolução da aula 04.pdb
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Resolução da aula 04\obj\Debug\Resolução da aula 04.csproj.AssemblyReference.cache
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Resolução da aula 04\obj\Debug\Resolução da aula 04.csproj.SuggestedBindingRedirects.cache
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Resolução da aula 04\obj\Debug\Resolução da aula 04.csproj.CoreCompileInputs.cache
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Resolução da aula 04\obj\Debug\Resolução da aula 04.exe
+D:\Users\joao.vbsantos37\OneDrive - SENAC - SP\programação\Resolução da aula 04\obj\Debug\Resolução da aula 04.pdb
